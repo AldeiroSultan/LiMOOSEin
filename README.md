@@ -1,51 +1,40 @@
-<!-- social media connecting shield -->
+# Hotel Room Booking System (Frontend)
 
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
+## Frontend Flowchart
 
-![Frontend Screenshot](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/frontend-screenshot.png)
+![Frontend Flowchart](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/frontend-flowchart.drawio.png)
 
-# ✨ Beach Resort | Hotel Room Booking System
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Hello 👋, I'm <strong>Samiur Rahman Mukul</strong>. In this repository i will be build a `Complete 'Beach Resort' | Hotel Room Booking System - Web application`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. So are you interested at this project let's connect and explore somethings new. Thanks
+## Getting Started
 
-<!-- contents of projects -->
+First, run the development server:
 
-## 🧑‍💻 Development Stack
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-- `Backend` - Node.js, Express.js & MongoDB Database
-- `Admin Panel` - React.js, Redux.js, Ant Design & Tailwind CSS
-- `Frontend` - Next.js, Redux.js & Ant Design
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## ⛳️ Live Preview
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-- Admin Panel - [`🚀 Click to Visit`][admin-panel-link]
-- Frontend (Client Side) - [`🚀 Click to Visit`][frontend-link]
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-<!-- my social media links -->
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-[facebook-url]: https://www.faceook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
+## Learn More
 
-<!-- shield icon links -->
+To learn more about Next.js, take a look at the following resources:
 
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-<!-- live preview links -->
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-[admin-panel-link]: https://admin-beach-resort.vercel.app
-[frontend-link]: https://mukul-beach-resort.vercel.app
+## Deploy on Vercel
 
-<p align="center">
-  <strong> HAPPY DEVELOPMENT 😀 & I LOVE PROGRAMMING 💖 </strong>
-</p>
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
